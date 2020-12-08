@@ -1,7 +1,3 @@
-""" This module contains a very simple parser to help you read the input files.
-You don't need to edit this file, but you can if you want. You can even delete
-it, if you'd prefer to write your own parsing functions."""
-
 import re
 from sys import stdin
 
